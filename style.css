@@ -43,3 +43,8 @@ section {
 #message {
     width: 30%;
 }
+
+figcaption {
+    font-size: smaller;
+    font-style: italic;
+}

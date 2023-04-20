@@ -39,3 +39,7 @@ section {
     width:auto;
     height: 100vh;
 }
+
+#message {
+    width: 30%;
+}

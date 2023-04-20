@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color:#CBDFBD;
+    position:fixed;
+    width:100%;
+    margin:0;
+    padding:0;
+}
+h1 {
+    margin:0;
+    padding: 0;
+    text-align: end;
+}
+nav, li {
+    display: inline;
+    margin:auto;
+}
+#img-container {
+    height: 200px;
+}
